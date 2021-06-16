@@ -1,0 +1,86 @@
+Courant Number mean: 0.000180768 max: 0.0102682
+Max Ur Courant Number = 0.0304616
+deltaT = 0.01
+Time = 23.18
+
+PIMPLE: Iteration 1
+MULES: Solving for alpha.solid
+MULES: Solving for alpha.solid
+smoothSolver:  Solving for alpha.solid, Initial residual = 2.45283e-06, Final residual = 7.23541e-13, No Iterations 1
+alpha.solid volume fraction = 0.017  Min(alpha1) = 0  Max(alpha1) = 0.0687337
+Constructing momentum equations
+GAMG:  Solving for p_rgh, Initial residual = 0.000164461, Final residual = 9.20689e-09, No Iterations 53
+PIMPLE: Iteration 2
+MULES: Solving for alpha.solid
+MULES: Solving for alpha.solid
+smoothSolver:  Solving for alpha.solid, Initial residual = 2.09722e-06, Final residual = 5.21655e-13, No Iterations 1
+alpha.solid volume fraction = 0.017  Min(alpha1) = 0  Max(alpha1) = 0.0687337
+Constructing momentum equations
+GAMG:  Solving for p_rgh, Initial residual = 6.63554e-05, Final residual = 9.73738e-09, No Iterations 28
+PIMPLE: Iteration 3
+MULES: Solving for alpha.solid
+MULES: Solving for alpha.solid
+smoothSolver:  Solving for alpha.solid, Initial residual = 2.09466e-06, Final residual = 5.21435e-13, No Iterations 1
+alpha.solid volume fraction = 0.017  Min(alpha1) = 0  Max(alpha1) = 0.0687337
+populationBalance particles: Iteration 1
+DILUPBiCGStab:  Solving for f0.solid.particles, Initial residual = 0.333534, Final residual = 1.84943e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f1.solid.particles, Initial residual = 0.333534, Final residual = 1.06658e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f2.solid.particles, Initial residual = 0.333534, Final residual = 1.89189e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f3.solid.particles, Initial residual = 0.333534, Final residual = 4.49283e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f4.solid.particles, Initial residual = 0.333534, Final residual = 3.71007e-19, No Iterations 1
+DILUPBiCGStab:  Solving for f5.solid.particles, Initial residual = 0.333533, Final residual = 6.38957e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f6.solid.particles, Initial residual = 0.333533, Final residual = 4.46926e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f7.solid.particles, Initial residual = 0.333533, Final residual = 4.04361e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f8.solid.particles, Initial residual = 0.333533, Final residual = 2.03498e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f9.solid.particles, Initial residual = 0.333533, Final residual = 4.02135e-20, No Iterations 1
+DILUPBiCGStab:  Solving for f10.solid.particles, Initial residual = 0.333533, Final residual = 3.8005e-17, No Iterations 1
+solid Sauter mean diameter, min, max = 7.51117e-05 5.82414e-15 0.000324466
+solid sizeGroups-sum volume fraction, min, max = 6.55538e+06 0.196626 1.09542e+10
+particles sizeGroup phase fraction first, last = 85341.1 1809.76
+Constructing momentum equations
+GAMG:  Solving for p_rgh, Initial residual = 7.16222e-05, Final residual = 9.69566e-09, No Iterations 52
+smoothSolver:  Solving for Theta.solid, Initial residual = 3.15026e-20, Final residual = 7.33519e-25, No Iterations 1
+ExecutionTime = 405.25 s
+
+
+Courant Number mean: 0.000181446 max: 0.010271
+Max Ur Courant Number = 0.0308683
+deltaT = 0.01
+Time = 23.19
+
+PIMPLE: Iteration 1
+MULES: Solving for alpha.solid
+MULES: Solving for alpha.solid
+smoothSolver:  Solving for alpha.solid, Initial residual = 2.0956e-06, Final residual = 5.19723e-13, No Iterations 1
+alpha.solid volume fraction = 0.017  Min(alpha1) = 0  Max(alpha1) = 0.0687337
+Constructing momentum equations
+GAMG:  Solving for p_rgh, Initial residual = 0.000163399, Final residual = 9.88868e-09, No Iterations 51
+PIMPLE: Iteration 2
+MULES: Solving for alpha.solid
+MULES: Solving for alpha.solid
+smoothSolver:  Solving for alpha.solid, Initial residual = 2.34122e-06, Final residual = 5.40281e-13, No Iterations 1
+alpha.solid volume fraction = 0.017  Min(alpha1) = 0  Max(alpha1) = 0.0687337
+Constructing momentum equations
+GAMG:  Solving for p_rgh, Initial residual = 6.59e-05, Final residual = 9.39295e-09, No Iterations 23
+PIMPLE: Iteration 3
+MULES: Solving for alpha.solid
+MULES: Solving for alpha.solid
+smoothSolver:  Solving for alpha.solid, Initial residual = 2.33957e-06, Final residual = 5.40136e-13, No Iterations 1
+alpha.solid volume fraction = 0.017  Min(alpha1) = 0  Max(alpha1) = 0.0687337
+populationBalance particles: Iteration 1
+DILUPBiCGStab:  Solving for f0.solid.particles, Initial residual = 0.333534, Final residual = 2.33678e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f1.solid.particles, Initial residual = 0.333534, Final residual = 2.9983e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f2.solid.particles, Initial residual = 0.333534, Final residual = 4.23179e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f3.solid.particles, Initial residual = 0.333534, Final residual = 7.07055e-18, No Iterations 1
+DILUPBiCGStab:  Solving for f4.solid.particles, Initial residual = 0.333534, Final residual = 4.24742e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f5.solid.particles, Initial residual = 0.333533, Final residual = 4.59714e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f6.solid.particles, Initial residual = 0.333533, Final residual = 5.59883e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f7.solid.particles, Initial residual = 0.333533, Final residual = 4.53049e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f8.solid.particles, Initial residual = 0.333533, Final residual = 3.23733e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f9.solid.particles, Initial residual = 0.333533, Final residual = 4.5759e-17, No Iterations 1
+DILUPBiCGStab:  Solving for f10.solid.particles, Initial residual = 0.333533, Final residual = 3.75565e-18, No Iterations 1
+solid Sauter mean diameter, min, max = 7.51603e-05 2.91207e-15 0.000326375
+solid sizeGroups-sum volume fraction, min, max = 1.31108e+07 0.195474 2.19084e+10
+particles sizeGroup phase fraction first, last = 170682 3619.53
+Constructing momentum equations
+GAMG:  Solving for p_rgh, Initial residual = 7.0519e-05, Final residual = 9.61563e-09, No Iterations 47
