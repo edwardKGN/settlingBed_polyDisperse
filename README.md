@@ -6,3 +6,6 @@ Particles break apart at constant rate (represented using powerLaw to the power 
 BUG:
 Current iteration, as of 16.06.2021, the particle breakage does not conserve number. 
 Prior iteration without inclusion of breakage had converged successfuly indicating current issue should only be from breakage configuration  
+
+RESOLVED:
+Expanded the bin size between particle diameters and it converged.
